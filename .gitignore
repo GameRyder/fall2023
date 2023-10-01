@@ -164,3 +164,4 @@ cython_debug/
 432/lab 3/.vscode/settings.json
 432/.DS_Store
 .DS_Store
+*.txt
